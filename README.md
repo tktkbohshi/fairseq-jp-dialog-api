@@ -15,7 +15,7 @@
 - Python 3.7.10
 - CUDA 11.1/10.2  
 - Pytorch 1.8.2  
-- fairseq 1.0.0a0（githubから飲み利用できるバージョン）  
+- fairseq 1.0.0a0（githubからのみ利用できるバージョン）  
 - sentencepiece 0.1.96  
 
 ### Quick start
