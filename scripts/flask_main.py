@@ -37,4 +37,4 @@ def return_message():
     
 
 if __name__ == '__main__':
-  app.run(host=os.getenv('APP_ADDRESS', 'localhost'), port=5000, debug=True)
+  app.run(host=os.getenv('APP_ADDRESS', 'localhost'), port=5000, debug=True, use_reloader=False)
