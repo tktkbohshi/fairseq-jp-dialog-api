@@ -4,7 +4,7 @@
 
 
 ## Update log
-* Dec. 21, 2022: bug fixed
+* Dec. 21, 2022: bug fixed　（複数回モデルがインスタンスされる問題への対応）  
 * Dec. 16, 2022: published
 
 ---
