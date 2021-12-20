@@ -4,7 +4,7 @@
 
 
 ## Update log
-
+* Dec. 21, 2022: bug fixed
 * Dec. 16, 2022: published
 
 ---
