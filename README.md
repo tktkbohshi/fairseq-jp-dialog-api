@@ -20,7 +20,7 @@
 
 ### Quick start
 
-1. `$ pip install -m requirements.txt`でライブラリをインストールしてください．    
+1. `$ pip install -r requirements.txt`でライブラリをインストールしてください．    
 2. その他必要なファイルをNTTのリポジトリからダウンロードしてください．  
 3. `$ sh flask-fairseq.sh`でローカルサーバを立ち上げてください（デフォルトはポート番号5000で立ち上がります）．  
 4. json形式のデータ`{"message":<送りたい発話>}`を`http://localhost:5000/get_response`にGETリクエストで送ると，システムからの応答がjson形式で返ってきます．  
