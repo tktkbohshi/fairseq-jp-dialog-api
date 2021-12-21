@@ -1,4 +1,4 @@
-# japanese-dialog-transformers
+# fairseq-jp-dialog-api
 
 このレポジトリはNTTより公開されている[the Japanese Transformer Encoder-decoder dialogue model](https://github.com/nttcslab/japanese-dialog-transformers) について，APIを経由することでシステムと簡単に対話を行えるようにするためのコードを公開しています．このレポジトリに含まれるコードのうち，[scripts/dialog_flask.py](scripts/dialog_flask.py)は，NTTが公開しているレポジトリの[dialog.py](https://github.com/nttcslab/japanese-dialog-transformers/blob/main/scripts/dialog.py)に基づきます．
 
